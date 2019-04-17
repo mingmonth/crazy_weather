@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "yskim",
+    "name": "CrazyWeather",
     "slug": "crazy-weather",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -24,6 +24,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "test.yskim.crazyweather"
     }
   }
 }
